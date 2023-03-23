@@ -3,7 +3,7 @@ import "./Header.css";
 export default function Header() {
   return (
     <div>
-      <h2>Big MartSales Insight Analysis Business Requests</h2>
+      <h2>Big Mart Sales Insight Analysis Business Requests</h2>
 
       <table>
         <tr>
@@ -91,38 +91,29 @@ export default function Header() {
           <td> Visualised Data in Googlesheet</td>
 
           <td>
-            <a
-              href=""
-              target="_blank"
-              rel="noopener noreferrer"
-            >
+            <a href="" target="_blank" rel="noopener noreferrer">
               View the Dashboard Here
             </a>
           </td>
         </tr>
         <tr>
           <td>Excel Dashboard </td>
-          <td>Check my Excel Sales  Dashboard</td>
+          <td>Check my Excel Sales Dashboard</td>
           <td>
-            <a
-              href=""
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Click here to convert Excel data to JSON Data
-            </a>
+            <a href="" target="_blank" rel="noopener noreferrer">
+              Click here to view the excel dashboard data            </a>
           </td>
         </tr>
         <tr>
           <td>Power BI File </td>
-          <td>Check out my Power BI  Sales Insights Dashbord File</td>
+          <td>Check out my Power BI Sales Insights Dashbord File</td>
           <td>
             <a
               href="https://github.com/JohnKimaiyo/Big-Mart-Sales-Insights-React-App/blob/main/src/Power%20BI%20Dashboard/Big%20Mart%20Sales%20Insights.pbix"
               target="_blank"
               rel="noopener noreferrer"
             >
-              Click here to convert Excel data to JSON Data
+              Click here to download Power BI File
             </a>
           </td>
         </tr>
@@ -153,11 +144,11 @@ export default function Header() {
           </td>
         </tr>
         <tr>
-          <td> Addidas  JSON Files </td>
-          <td> Addidas JSON Dataset</td>
+          <td> Big Mart JSON Files </td>
+          <td> Big Mart JSON Dataset</td>
           <td>
             <a
-              href="https://raw.githubusercontent.com/JohnKimaiyo/Addidas-Insight-Sales-Analysis-React-App/main/src/Source%20Files/addidas.json"
+              href="https://github.com/JohnKimaiyo/Big-Mart-Sales-Insights-React-App/blob/main/src/Source%20Files/bigmart.json"
               target="_blank"
               rel="noopener noreferrer"
             >
