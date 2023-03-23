@@ -1,0 +1,13 @@
+/****** Script for SelectTopNRows command from SSMS  ******/
+SELECT TOP (1000) [ProductID]
+      ,[Weight]
+      ,[FatContent]
+      ,[ProductVisibility]
+      ,[ProductType]
+      ,[MRP]
+      ,[OutletID]
+      ,[EstablishmentYear]
+      ,[OutletSize]
+      ,[LocationType]
+      ,[OutletType]
+  FROM [Big Mart Sales].[dbo].['Big Mart Sales$']
