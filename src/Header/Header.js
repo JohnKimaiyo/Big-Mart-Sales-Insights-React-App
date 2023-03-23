@@ -3,7 +3,7 @@ import "./Header.css";
 export default function Header() {
   return (
     <div>
-      <h2>Addidas Sales Insight Analysis Business Requests</h2>
+      <h2>Big MartSales Insight Analysis Business Requests</h2>
 
       <table>
         <tr>
@@ -77,7 +77,7 @@ export default function Header() {
 
           <td>
             <a
-              href="https://github.com/JohnKimaiyo/Addidas-Insight-Sales-Analysis-React-App/blob/main/src/Power%20BI%20Dashboard/Addidas%20Dashboard%20Sale%20Insights.pdf"
+              href="https://github.com/JohnKimaiyo/Big-Mart-Sales-Insights-React-App/blob/main/src/Power%20BI%20Dashboard/Big%20%20Mart%20Sales%20Insight.pdf"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -118,7 +118,7 @@ export default function Header() {
           <td>Check out my Power BI  Sales Insights Dashbord File</td>
           <td>
             <a
-              href="https://github.com/JohnKimaiyo/Addidas-Insight-Sales-Analysis-React-App/blob/main/src/Power%20BI%20Dashboard/Addidas%20Sales%20Insight%20Dashboard.pbix"
+              href="https://github.com/JohnKimaiyo/Big-Mart-Sales-Insights-React-App/blob/main/src/Power%20BI%20Dashboard/Big%20Mart%20Sales%20Insights.pbix"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -131,7 +131,7 @@ export default function Header() {
           <td>Checkout sql statement to clean up the data</td>
           <td>
             <a
-              href="https://github.com/JohnKimaiyo/Addidas-Insight-Sales-Analysis-React-App/blob/main/src/SQL%20Scripts/dbo.sql"
+              href="https://github.com/JohnKimaiyo/Big-Mart-Sales-Insights-React-App/blob/main/src/SQL%20Script/bigmart.sql"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -140,11 +140,11 @@ export default function Header() {
           </td>
         </tr>
         <tr>
-          <td> Addidas  Source Files </td>
-          <td> Addidas   Kaggle Dataset</td>
+          <td> Big Mart Source Files </td>
+          <td> Big Mart Kaggle Dataset</td>
           <td>
             <a
-              href="https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset"
+              href="https://www.kaggle.com/datasets/akashdeepkuila/big-mart-sales"
               target="_blank"
               rel="noopener noreferrer"
             >
